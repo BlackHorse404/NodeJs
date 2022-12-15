@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/phatlino/NodeJs#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "express-handlebars": "^5.1.0",
     "node-sass": "^7.0.1"
   },
